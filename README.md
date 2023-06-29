@@ -1,4 +1,8 @@
 #About  
 This program will help automate the search for LAPS(Local Administrator Passowrd Solution) in the system   
 #Usage:  
-m
+1)Need to install win32/registry    
+2)Rub ruby <script.rb> on machine  
+#Future  
+In the future, password capture will be implemented.
+But this will require OU,GUID
