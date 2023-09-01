@@ -1,4 +1,4 @@
-eeeeeeeeeeeeeeeeeeeee#About  
+#About  
 This program will help automate the search for LAPS(Local Administrator Passowrd Solution) in the system   
 #Usage:  
 1)Need to install win32/registry    
